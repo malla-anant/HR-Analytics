@@ -6,7 +6,8 @@ This Power BI dashboard provides insights into employee attendance, work-from-ho
 
 🖼 Dashboard Preview
 
-![Screenshot 2025-03-25 180038](https://github.com/user-attachments/assets/1af135ed-8886-459a-913f-02537ee215f5)
+<img width="997" height="564" alt="Screenshot 2025-10-31 143232" src="https://github.com/user-attachments/assets/d6485803-048d-4bb5-aad1-39bbfec5ee25" />
+
 
 📊 Key Metrics
 
